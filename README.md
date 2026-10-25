@@ -1,3 +1,5 @@
+<img src="assets/workbench.png" width="96" height="96" alt="上品工作台图标" />
+
 # 上品工作台 · Windows 安装与更新
 
 这是上品工作台的程序发布仓库，用于下载安装和自动更新。无需 GitHub 账号即可下载已发布附件。
