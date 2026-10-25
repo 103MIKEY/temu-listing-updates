@@ -4,13 +4,13 @@
 
 ## 首次安装
 
-下载 [Windows 安装程序](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.0/TemuListing-5.2.0-Setup.exe)，运行后选择一个新目录。安装完成后配置自己的站斧浏览器和 API。
+下载 [Windows 安装程序](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.1/TemuListing-5.2.1-Setup.exe)，运行后选择一个新目录。安装完成后配置自己的站斧浏览器和 API。
 
-也可使用 [完整便携包](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.0/TemuListing-5.2.0-Windows.zip)，完整解压后运行其中的工作台 EXE。不要只移动主 EXE。
+也可使用 [完整便携包](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.1/TemuListing-5.2.1-Windows.zip)，完整解压后运行其中的工作台 EXE。不要只移动主 EXE。
 
 ## 已有旧版
 
-旧 v5 / 5.1.0 用户首次接入在线更新，可使用 [一次性升级包](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.0/TemuListing-5.2.0-Upgrade.zip)。先关闭工作台，在升级包里打开独立更新器，选择原来的完整工作台根目录和其中的 `5.2.0.tlu`，再安装。
+旧 v5 / 5.1.0 用户首次接入在线更新，可使用 [一次性升级包](https://github.com/103MIKEY/temu-listing-updates/releases/download/v5.2.1/TemuListing-5.2.1-Upgrade.zip)。先关闭工作台，在升级包里打开独立更新器，选择原来的完整工作台根目录和其中的 `5.2.1.tlu`，再安装。
 
 未知旧版本或已修改的程序文件会停止升级，请向发布者核对，不要清空个人资料解决。
 
@@ -25,3 +25,5 @@
 [查看所有发行版本](https://github.com/103MIKEY/temu-listing-updates/releases)。后续发行可能只提供更新包；首次安装器安装后可继续检查最新版本。
 
 本仓库不存放发布者的账号、私钥或个人商品资料。分发包包含运行所需脚本和内置模板；公开下载不表示授予额外的源代码许可。更新包采用发布者签名校验，Windows 安装程序暂未使用 Authenticode 代码签名。
+
+5.2.1 新增统一的工作台图标，已安装 5.2.0 的用户可直接在线更新。
